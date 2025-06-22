@@ -4,4 +4,4 @@ I thought the question about whether reclining your seat on a flight was rude or
 
 ## See chart below:
 
-![This is the chart I made from the data in a previous question of this quiz:](flight etiquette quiz 4.png)
+![This is the chart I made from the data in a previous question of this quiz:](flight-etiquette-quiz-4.png)
